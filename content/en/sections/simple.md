@@ -1,5 +1,5 @@
 ---
-title: Mantenerse en el mercado americano
+title: Mejora de salario
 description: ''
 draft: false
 weight: 4
