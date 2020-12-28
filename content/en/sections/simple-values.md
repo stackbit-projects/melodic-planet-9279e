@@ -2,7 +2,7 @@
 title: Estudia a master en USA
 description: >-
   En este curso te dare toda la informacion para que estudies un master en CS en
-  USA
+  USA, donde tendras que estar 7-8 meses en clases presenciales, para luego 
 draft: false
 weight: 1
 ---
