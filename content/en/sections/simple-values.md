@@ -1,6 +1,6 @@
 ---
 title: Estudia a master en USA
-description: ''
+description: 'En este curso te dare toda la informacion '
 draft: false
 weight: 1
 ---
