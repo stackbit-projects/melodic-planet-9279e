@@ -1,5 +1,5 @@
 ---
-title: Simple
+title: Mantenerse en el mercado americano
 description: ''
 draft: false
 weight: 4
