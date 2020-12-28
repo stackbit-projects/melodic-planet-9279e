@@ -1,5 +1,5 @@
 ---
-title: Master en CS
+title: Estudia a master en USA
 description: ''
 draft: false
 weight: 1
