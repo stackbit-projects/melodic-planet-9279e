@@ -5,4 +5,4 @@ draft: false
 weight: 1
 ---
 
-Te dare todos los detalles para ser seleccionado: Como postular, cuales son los requisitos, cual es el nivel de ingles necesario, cuanto dinero se necesita, etc
+Te dare todos los detalles para ser seleccionado: Como postular, cuales son los requisitos, cual es el nivel de ingles necesario, cuanto dinero se necesita, preparacion para la entrevista en la embajada, etc.
