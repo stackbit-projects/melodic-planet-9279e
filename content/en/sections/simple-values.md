@@ -1,5 +1,5 @@
 ---
-title: 'Obten '
+title: Obten un Mas
 description: ''
 draft: false
 weight: 1
