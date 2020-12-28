@@ -1,6 +1,6 @@
 ---
-title : "Simple Choices"
-description: ""
+title: Estudia a master en USA
+description: ''
 draft: false
 weight: 2
 ---
