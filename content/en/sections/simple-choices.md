@@ -1,5 +1,5 @@
 ---
-title: Estudia a master en USA
+title: Se seleccionado por una universidad americana para hacer un Master en CS
 description: ''
 draft: false
 weight: 2
