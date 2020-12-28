@@ -1,5 +1,5 @@
 ---
-title: Obten un Mas
+title: Master en CS
 description: ''
 draft: false
 weight: 1
