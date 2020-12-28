@@ -5,4 +5,4 @@ draft: false
 weight: 4
 ---
 
-En este curso te dare toda la informacion para que estudies un master en CS en USA, donde tendras que estar 7-8 meses en clases presenciales, para luego hacer tu CPT (Curricular Practical Training) por 2 años en una compañia americana con salario entre 70000-150000USD de acuerdo a tu experiencia.
+Te daré toda la informacion para que te mantengas en este competitivo mercado y como aumentar tu salario o trabajar en las empresas soñadas como: Amazon, Facebook, Google, Microsoft, Tesla, etc.
