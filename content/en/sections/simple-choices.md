@@ -1,5 +1,5 @@
 ---
-title: Estudia un Master en CS
+title: Vida universitaria
 description: ''
 draft: false
 weight: 2
