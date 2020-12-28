@@ -1,6 +1,6 @@
 ---
-title : "Simple Values"
-description: ""
+title: Obt
+description: ''
 draft: false
 weight: 1
 ---
