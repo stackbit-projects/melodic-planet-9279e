@@ -1,6 +1,8 @@
 ---
 title: Estudia a master en USA
-description: 'En este curso te dare toda la informacion '
+description: >-
+  En este curso te dare toda la informacion para que estudies un master en CS en
+  USA
 draft: false
 weight: 1
 ---
